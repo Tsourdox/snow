@@ -1,4 +1,4 @@
-# New Project
+# Snow
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
