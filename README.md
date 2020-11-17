@@ -22,3 +22,9 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+### Hosting
+
+I've tried hosting it with GitHub Pages but cant get it to work.
+
+Here is a (demo)[https://pedantic-sinoussi-8dfbce.netlify.app] tho!
